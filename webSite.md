@@ -27,7 +27,7 @@
 | jQuery插件库               | https://www.jq22.com/          |          |
 | FinClip官网-小程序容器技术 | https://www.finclip.com/       |          |
 | 偶书                       | https://obook.cc/              |          |
-|                            |                                |          |
+| 百度统计                   | https://tongji.baidu.com/      |          |
 |                            |                                |          |
 |                            |                                |          |
 
