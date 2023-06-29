@@ -28,7 +28,7 @@
 | FinClip官网-小程序容器技术 | https://www.finclip.com/       |          |
 | 偶书                       | https://obook.cc/              |          |
 | 百度统计                   | https://tongji.baidu.com/      |          |
-|                            |                                |          |
+| 百度智能云                 | https://console.bce.baidu.com/ |          |
 |                            |                                |          |
 
 # 软件
