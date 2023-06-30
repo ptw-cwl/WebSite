@@ -127,37 +127,37 @@
 
 # 未分类
 
-| 网站名称                         | 网站地址                                                     | 网站介绍 |
-| -------------------------------- | :----------------------------------------------------------- | -------- |
-| uni-app官网                      | https://uniapp.dcloud.net.cn/                                |          |
-| 中国裁判文书网                   | https://wenshu.court.gov.cn/                                 |          |
-| 统一社会信用代码查询_信用中国    | https://www.creditchina.gov.cn/xinyongfuwu/tongyishehuixinyongdaimachaxunzhuanlan/shehuixinyongdaimachaxun/index.html |          |
-| 中国研究生招生信息网             | https://yz.chsi.com.cn/kyzx/zcdh/                            |          |
-| 中国高等教育学生信息网（学信网） | https://www.chsi.com.cn/                                     |          |
-| 中国教育考试网                   | http://cet.neea.edu.cn/cet                                   |          |
-| 中国学术文献网络出版总库         | https://afgfy415d30141eea45d4hn0bvkwwwk5cn69pkfffh.res.gxlib.org.cn/kns55/brief/result.aspx |          |
-| 程序员一站式导航                 | https://www.cxy521.com/index.html                            |          |
-| 静态站点生成器 - 顶级开源 SSG    | https://jamstack.org/generators/                             |          |
-| mindmanager                      | https://www.mindmanager.com/                                 |          |
-| ai导航栏                         | https://17yongai.com/                                        |          |
-| Auth0                            | https://auth0.com/                                           |          |
-| 学分银行门户                     | https://www.ncb.edu.cn/                                      |          |
-| 中国教育考试网                   | https://zscx.neea.edu.cn/                                    |          |
-| 中国计算机技术职业资格网         | https://www.ruankao.org.cn/                                  |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
+| 网站名称                                        | 网站地址                                                     | 网站介绍 |
+| ----------------------------------------------- | :----------------------------------------------------------- | -------- |
+| uni-app官网                                     | https://uniapp.dcloud.net.cn/                                |          |
+| 中国裁判文书网                                  | https://wenshu.court.gov.cn/                                 |          |
+| 统一社会信用代码查询_信用中国                   | https://www.creditchina.gov.cn/xinyongfuwu/tongyishehuixinyongdaimachaxunzhuanlan/shehuixinyongdaimachaxun/index.html |          |
+| 中国研究生招生信息网                            | https://yz.chsi.com.cn/kyzx/zcdh/                            |          |
+| 中国高等教育学生信息网（学信网）                | https://www.chsi.com.cn/                                     |          |
+| 中国教育考试网                                  | http://cet.neea.edu.cn/cet                                   |          |
+| 中国学术文献网络出版总库                        | https://afgfy415d30141eea45d4hn0bvkwwwk5cn69pkfffh.res.gxlib.org.cn/kns55/brief/result.aspx |          |
+| 程序员一站式导航                                | https://www.cxy521.com/index.html                            |          |
+| 静态站点生成器 - 顶级开源 SSG                   | https://jamstack.org/generators/                             |          |
+| mindmanager                                     | https://www.mindmanager.com/                                 |          |
+| ai导航栏                                        | https://17yongai.com/                                        |          |
+| Auth0                                           | https://auth0.com/                                           |          |
+| 学分银行门户                                    | https://www.ncb.edu.cn/                                      |          |
+| 中国教育考试网                                  | https://zscx.neea.edu.cn/                                    |          |
+| 中国计算机技术职业资格网                        | https://www.ruankao.org.cn/                                  |          |
+| Stock.us - 覆盖中港美股票市场的深度投资研究工具 | https://stock.us/cn/                                         |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
+|                                                 |                                                              |          |
 
 
 
@@ -174,15 +174,3 @@
 
 
 
-# 程序员必备网站 未整理
-
-1. GitHub：一个世界上最大的代码托管平台，可以分享、管理和发现源代码。它还提供了协作和版本控制工具。
-2. Stack Overflow：最流行的编程问答社区，其中有数百万的开发者分享他们的知识和经验。
-3. CodePen：一个在线代码编辑器，允许用户创建、分享和测试 HTML、CSS 和 JavaScript 代码片段。
-4. FreeCodeCamp：一个提供免费在线学习编程的网站，包括 HTML、CSS、JavaScript、React、Node.js 等多种技术栈。
-5. HackerRank：一个在线编程挑战平台，允许开发者通过解决算法问题来提高他们的编程技能。
-6. Medium：一个允许用户发布和分享文章的博客平台，其中有很多关于编程的优秀文章。
-7. W3Schools：一个提供有关 web 开发和编程教育的免费在线教育资源。
-8. Devdocs：一个整合了各种编程语言和框架文档的在线文档库，方便开发者查阅。
-9. Reddit：一个社交新闻网站，其中也有很多与编程相关的 subreddits。
-10. Google 开发者：一个由 Google 提供的开发者资源网站，提供文档、工具和其他资源，以帮助开发者构建更好的应用。
